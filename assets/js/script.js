@@ -62,7 +62,7 @@ $(document).ready(() => {
 
   var i = 1;
   let changeTitle = () => {
-    let titles = ["Web Developer", "UI/UX Designer", "Android Developer", "Programmer"];
+    let titles = ["Web Developer", "Programmer"];
     if (i == titles.length) {
       i = 0;
     }
