@@ -372,7 +372,7 @@ li {
 }
 .about-content {
   margin-left: 50px;
-  flex-basis: 60%;
+  flex-basis: 100%;
 }
 
 .about-img {
